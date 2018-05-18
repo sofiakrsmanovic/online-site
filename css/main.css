@@ -1,0 +1,173 @@
+/******* Grid *******/
+.full-width {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.half-width {
+  width: 600px;
+  float: left;
+}
+
+.third-width {
+  width: 400px;
+  float: left;
+}
+
+.portfolio {
+  margin-top: 60px;
+  height: 400px;
+}
+
+/******* Text Styles *******/
+h1 {
+  font-family: 'Lora', serif;
+  font-size: 80px;
+  color: #ffffff;
+  text-align: center;
+  float: left;
+  padding-top: 300px;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 45px;
+  color: #000000;
+  text-align: center;
+  line-height: -15px;
+  float: left;
+  width: 1000px;
+  padding-left: 100px;
+  margin-top: -20px;
+}
+
+h3 {
+  font-family: 'Lora', serif;
+  font-size: 36pt;
+  color: #000000;
+  text-align: center;
+  margin: 120px 120px;
+}
+
+h4 {
+  font-family: 'Lora', serif;
+  font-size: 24px;
+  color: #efcf2e;
+}
+
+h5 {
+  font-family: 'Open Sans', 600, sans-serif;
+  font-size: 24px;
+  color: #000000;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+}
+
+/******* Header *******/
+
+header {
+  height: 1600px;
+  background: url('../img/header.png') no-repeat;
+  background-size: cover;
+}
+
+
+/******* Portfolio *******/
+#portfolio {
+  padding-bottom: 200px;
+  height: 940px;
+}
+
+#portfolio .full-width {
+clear: both;
+width: 1200px;
+}
+
+#portfolio h4 {
+  margin-left: -150px;
+  margin-right: -300px;
+}
+
+#portfolio p {
+  margin-top: -20px;
+}
+
+#portfolio img {
+  margin-left: -200px;
+  padding-top: 70px;
+}
+
+#portfolio p {
+margin-left: -150px;
+margin-right: -300px;
+}
+
+#portfolio h5 {
+  margin-left: -150px;
+  margin-right: -300px;
+
+}
+/******* About *******/
+#about {
+  clear:both;
+  background-color: #efcf2e;
+  height: 850px;
+}
+
+#about h3 {
+  padding-top: 120px;
+}
+
+#about h5 {
+  margin-top: -5px;
+  color: #ffffff;
+  margin-left: -150px;
+  margin-right: -300px;
+}
+
+#about p {
+  color: #ffffff;
+  margin-left: -150px;
+  margin-right: -300px;
+}
+
+#about img {
+  margin-left: -50px;
+}
+
+/******* Let's Connect *******/
+footer {
+  background-color: #000000;
+  height: 600px;
+  clear:both;
+  text-align: center;
+}
+
+footer h3 {
+  color: #ffffff;
+  margin-top: -10px;
+  padding-top: 120px;
+}
+
+footer h5 {
+  color: #ffffff;
+}
+
+
+footer h5 {
+  line-height: 40px;
+}
+
+h6 {
+  color: #ffffff;
+  font-size: 16px;
+  font-variant: small-caps;
+  margin-top: 40px;
+}
+
+#links {
+  padding-left: 20px;
+}
